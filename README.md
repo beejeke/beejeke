@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋🏼
 
-I'm a  *\_\_future\_\_*  Data Scientist, who is passionate about data wrangling 🛠, visualization 📊 and programming, especially with **Python** 🐍 and **R** 📈 technologies.
+I'm a Data Scientist, who is passionate about data wrangling 🛠, visualization 📊 and programming, especially with **Python** 🐍 and **R** 📈 technologies.
 
 *   👨🏽‍💻I'm currently working on [EVM](https://www.evm.net/) as **Data Scientist**.
 *   ⚙️ Working with **Python**, **R**.
